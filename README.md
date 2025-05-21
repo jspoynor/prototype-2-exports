@@ -37,5 +37,5 @@ far but I know that I'm taking a lot of shortcuts to save time while prototyping
 I know that the game will be a lot more polished, but each feature will take a lot more time to implement.
 
 I'm happy with the modeling I've done so far, in one of the future prototypes I'd like to come back and make textures
-for this room to really nail the environment. But the next prototype will most likely be focused on combat or a
+for this room to really nail the intended atmosphere. But the next prototype will most likely be focused on combat or a
 battle system.
